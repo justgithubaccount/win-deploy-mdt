@@ -1,0 +1,1 @@
+msiexec /i "v8_20BD_5c.Печать НД с PDF417(3.0.32).msi" /qn

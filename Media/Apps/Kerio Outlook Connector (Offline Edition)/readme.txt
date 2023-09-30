@@ -1,0 +1,1 @@
+msiexec /i "kerio-connect-koff-9.2.10-4692-win32.msi" /qn

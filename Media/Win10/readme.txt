@@ -1,0 +1,1 @@
+Copy the Windows 10 iso to C:\Media\Win10\

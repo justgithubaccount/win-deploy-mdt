@@ -1,0 +1,1 @@
+Copy sources\sxs\* from the Server 2019 DVD to C:\Media\SXS\
